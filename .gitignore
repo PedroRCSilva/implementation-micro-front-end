@@ -1,0 +1,10 @@
+consumer/node_modules
+consumer/@mf-types
+consumer/dist
+node_modules
+provider/node_modules
+provider/@mf-types
+provider/dist
+provider_2/node_modules
+provider_2/@mf-types
+provider_2/dist
